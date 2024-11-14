@@ -1,0 +1,3 @@
+Enleve bootstrap et modifie en css pure
+gestion de temps 
+affichage de la bonne réponse après
